@@ -1,0 +1,15 @@
+# build
+cmake-build-*/
+
+#idea
+.idea/
+
+#conan
+conan_venv/
+
+#clang
+.clang-format
+
+#cmake
+CMakeUserPresets.json
+
